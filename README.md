@@ -1,6 +1,6 @@
 # Using Machine Learning to Analysis of Blood Donation
 ## Which factors impact high blood donation? 
-
+![Diagram of Project]icons8-blood-donation-78.png
 * Blood donation is the only method to secure accessibility of blood products for patients in need of transfusion and accessibility is solely dependent on voluntary blood donation.
 * However, the total population in South Korea is currently declining adding challenges to maintaining the blood donation rate
 * The objective of this case study is as follows:
