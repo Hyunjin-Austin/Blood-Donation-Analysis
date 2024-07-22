@@ -1,8 +1,8 @@
 # Using Machine Learning to Analysis of Blood Donation
 
 ![Blood_donation_img](https://github.com/Hyunjin-Austin/Blood-Donation-Analysis/blob/b11e44c3af60536b0b2ee32221b31fb819231d94/icons8-blood-donation-78.png)
-* Blood donation is the only method to secure accessibility of blood products for patients in need of transfusion and accessibility is solely dependent on voluntary blood donation.
-* However, the total population in South Korea is currently declining adding challenges to maintaining the blood donation rate
+* Blood donation is the only method to secure accessibility of blood products for patients in need of transfusion and accessibility is solely dependent on voluntary blood donation. Hence, many countries' health authorities and blood centers are striving to have sufficient blood donations to secure a stable blood supply in the country or region.
+* However, securing sufficient blood inventory is facing challenges for several reasons. In this case study, we aimed to find features that could help high blood donation in South Korea.
 * The objective of this case study is as follows:
   * Analyze the trend of blood donations since 2005
   * Identify which features have an impact on blood donation rate
