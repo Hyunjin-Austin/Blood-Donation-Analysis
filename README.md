@@ -1,6 +1,6 @@
 # Using Machine Learning to Analysis of Blood Donation
 
-![Blood_donation_img][[(https://github.com/Hyunjin-Austin/Blood-Donation-Analysis/blob/5e62a836e4c2a1599200a5d9ab1627fe84cbcf18/icons8-blood-donation-32.png)]]
+![Blood_donation_img](https://github.com/Hyunjin-Austin/Blood-Donation-Analysis/blob/5e62a836e4c2a1599200a5d9ab1627fe84cbcf18/icons8-blood-donation-32.png)
 
 * Blood donation is the only method to secure accessibility of blood products for patients in need of transfusion and accessibility is solely dependent on voluntary blood donation.
 * However, the total population in South Korea is currently declining adding challenges to maintaining the blood donation rate
