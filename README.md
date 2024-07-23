@@ -4,9 +4,9 @@
 * Blood donation is the only method to secure accessibility of blood products for patients in need of transfusion and accessibility is solely dependent on voluntary non-remunerated blood donors. Hence, many countries' health authorities and blood centers are striving to have sufficient blood donations to secure a stable blood supply in the country or region.
 * In this case study, we aimed to find features that could help improve blood donation performance in South Korea.
 * The objective of this case study is as follows:
-  * Analyze the trend of blood donations since 2005
-  * Identify which features have an impact on blood donation rate
-  * Recommendations for blood centers to increase blood donation rate
+  * Analyze the trend of blood donations in South Korea since 2005 
+  * Identify which features have an impact on high blood donation
+  * Recommendations for blood centers to increase blood donation
 * To identify important features, we built various machine-learning models from simple Logistic Regression to the XGBoosting Classifier model.
 * Platforms used for this project
   * Python: Pandas, Scikit-learn, Xgboost
