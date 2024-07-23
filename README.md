@@ -13,9 +13,9 @@
   * Visualization: Tableau, Seaborn
 ## Note for this project
   * The data used for this project is entirely from public open data, extracted from KOSIS (Korean Statistical Information Service). No internal data was included.
-  * This project is worked with **Yoojin (Audrey) Jung**, a data analyst specialist from the University of Illinois Urbana-Champaign (UIUC).
+  * This project was worked with <ins>**Yoojin (Audrey) Jung**</ins>, a data analyst, with a master's degree from the University of Illinois Urbana-Champaign (UIUC).
     * (Skills) Data Analytics, Visualization (Tableau), SQL, R, Python
-    * (Contributions to this project) EDA (Processing & Visualization), model design (logistic regression, decision tree)
+    * (Contributions to this project) EDA (Processing & Visualization), Tableau, model design (logistic regression, decision tree)
     * LinkedIn Profile: https://www.linkedin.com/in/yoojin-jung/
 ## Citation
 If you use this project in your research, please cite it as follows:
