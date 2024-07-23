@@ -16,13 +16,13 @@
   * This project is worked with **Yoojin (Audrey) Jung**, a data analyst specialist from the University of Illinois Urbana-Champaign (UIUC).
     * (Skills) Data Analytics, Visualization (Tableau), SQL, R, Python
     * (Contributions to this project) EDA (Processing & Visualization), model design (logistic regression, decision tree)
-    * LinkedIn Profile:
+    * LinkedIn Profile: https://www.linkedin.com/in/yoojin-jung/
 ## Citation
 If you use this project in your research, please cite it as follows:
-  * author = Hyunjin and Yoojin
-  * title = Using Machine Learning to Analysis of Blood Donation
-  * year = 2024
-  * publisher = Hyunjin-Austin
-  * journal = Blood-Donation-Analysis
-  * howpublished = https://github.com/Hyunjin-Austin/Blood-Donation-Analysis/
+  * Author: Hyunjin and Yoojin
+  * Title: Using Machine Learning to Analysis of Blood Donation
+  * Year: 2024
+  * Publisher: Hyunjin-Austin
+  * Journal: Blood-Donation-Analysis
+  * How published: https://github.com/Hyunjin-Austin/Blood-Donation-Analysis/
 Thank you for citing our work!
