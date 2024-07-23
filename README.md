@@ -23,6 +23,6 @@ If you use this project in your research, please cite it as follows:
   * title = Using Machine Learning to Analysis of Blood Donation
   * year = 2024
   * publisher = Hyunjin-Austin
-  * journal = {GitHub repository}
+  * journal = Blood-Donation-Analysis
   * howpublished = https://github.com/Hyunjin-Austin/Blood-Donation-Analysis/
-}
+Thank you for citing our work!
