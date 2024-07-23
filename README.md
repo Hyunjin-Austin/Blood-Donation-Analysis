@@ -19,11 +19,10 @@
     * LinkedIn Profile:
 ## Citation
 If you use this project in your research, please cite it as follows:
-@misc{myproject2023,
-  author = {Your Name and Contributor's Name},
-  title = {My Project: A Tool for Doing Something},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/your-username/your-repository}}
+  * author = Hyunjin and Yoojin
+  * title = Using Machine Learning to Analysis of Blood Donation
+  * year = 2024
+  * publisher = Hyunjin-Austin
+  * journal = {GitHub repository}
+  * howpublished = https://github.com/Hyunjin-Austin/Blood-Donation-Analysis/
 }
