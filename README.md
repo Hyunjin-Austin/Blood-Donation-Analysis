@@ -12,6 +12,11 @@
 * Platforms used for this project
   * Python: Pandas, Scikit-learn, Xgboost
   * Visualization: Tableau, Seaborn
+## Project Outline
+1. Plan Stage: Data collection, Data dictionary, Pre-processing & Feature engineering
+2. Analyze Stage: Exploratory Data Analysis (EDA)
+3. Construct Stage: Prepare, Construct, and train & test models 
+4. Execute Stage: Interpret model performance, conclusion (recommendation)
 ## Note for this project
   * The data used for this project is entirely from public open data, extracted from KOSIS (Korean Statistical Information Service). No internal data was included.
   * This project was worked with <ins>**Yoojin (Audrey) Jung**</ins>, a data analyst, with a master's degree from the University of Illinois Urbana-Champaign (UIUC).
@@ -19,7 +24,7 @@
     * **(Contributions to this project)** EDA (Processing & Visualization), Tableau, model design (logistic regression, decision tree)
     * **(LinkedIn Profile)** https://www.linkedin.com/in/yoojin-jung/
 ## Citation
-If you use (or refer) this project in your research, please cite it as follows:
+If you use (or refer to) this project in your research (study), please cite it as follows:
   * Author: Hyunjin and Yoojin
   * Title: Using Machine Learning to Analysis of Blood Donation
   * Year: 2024
